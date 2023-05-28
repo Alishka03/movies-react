@@ -1,0 +1,57 @@
+.font-responsive1 {
+    font-size: .58rem;
+
+}
+
+.font-responsive2 {
+    font-size: .6rem;
+}
+
+.font-responsive3 {
+    font-size: .99rem;
+
+}
+
+
+@media (min-width: 768px) {
+    .font-responsive1 {
+        font-size: .6rem;
+
+    }
+
+    .font-responsive2 {
+        font-size: .8rem;
+    }
+
+    .font-responsive3 {
+        font-size: 1.1rem;
+
+    }
+
+}
+
+@media (min-width: 991px) {
+    .font-responsive1 {
+        font-size: .8rem;
+
+
+    }
+
+    .font-responsive2 {
+        font-size: .8rem;
+    }
+
+
+}
+
+@media (min-width: 1200px) {
+    .font-responsive1 {
+        font-size: 1.1rem;
+
+    }
+
+    .font-responsive3 {
+        font-size: 1.5rem;
+
+    }
+}
